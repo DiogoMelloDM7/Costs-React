@@ -4,7 +4,14 @@ function Input({type, text, name, placeholder, handleOnChange, value}){
     return(
         <div className={styles.form_control}>
             <label for={name}>{text}</label>
-            <input type={type} placeholder={placeholder} name={name} id={name} onChange={handleOnChange} value={value} />
+            <input 
+                type={type} 
+                placeholder={placeholder} 
+                name={name} 
+                id={name} 
+                onChange={handleOnChange} 
+                value={value} 
+            />
         </div>
     )
 }
