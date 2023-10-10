@@ -32,39 +32,6 @@
       "cost": 0,
       "services": [],
       "id": 7
-    },
-    {
-      "name": "testando",
-      "budget": "1000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "teste",
-      "budget": "200",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "name": "teste",
-      "budget": "2",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 10
     }
   ],
   "categories": [
